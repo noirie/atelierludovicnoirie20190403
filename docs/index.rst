@@ -8,6 +8,7 @@ Welcome to AtelierLudovicNoirie20190403's documentation!
    readme
    installation
    usage
+   references
    modules
    contributing
    authors
